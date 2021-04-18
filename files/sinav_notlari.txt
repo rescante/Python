@@ -1,0 +1,4 @@
+Mehmet Alper Derin:90,85,95
+Hatice Derin:100,100,95
+EylüL Derin:85,95,90
+Özkan Derin:35,40,92
