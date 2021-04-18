@@ -1,5 +1,3 @@
-Mehmet Alper Derin:AA
-Hatice Derin:CC
-EylüL Derin:AA
-Özkan Derin:FF
-Barış Sağ:FF
+Mehmet Alper Derin:CB
+Ali Turan:BA
+Savaş Cebeci:DD
